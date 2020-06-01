@@ -5,7 +5,7 @@
 <p><i>It helps us to use multi-dimensional array and matrices</i>. Array object in numpy is called <b>ndarray</b>(n-dimensional array).</p>
 <p>List is there in python which kinnda works like array but not exactly.So what is different about arrays-<br></p>
   <ul>
-      <li>Arrays can be <i>5 to 30 times</i> faster than the list for various operations like- </li>
+      <li>Arrays can be <i>5 to 30 times</i> faster than the list for various operations.</li>
       <li>It is faster because <i>Arrays</i> are densely packed in homogeneous locations (means contiguous memory locations one after the other) unlike list it has scattered memory lactions.  </li>
       <li>This behaviour in computing is called <b>locality of reference.</b></li>
   </ul>
