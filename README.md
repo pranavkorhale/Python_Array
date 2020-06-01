@@ -10,3 +10,8 @@
       <li>This behaviour in computing is called <b>locality of reference.</b></li>
     </ul>
 <p>NumPy library is partially written in python but most things that require fast computation are written in c or c++.</p> 
+<h3>How to start off-</h3>
+1) First install NumPy library using your command prompt-<br>
+    <ul><li>For windows- pip install numpy or pip3 install numpy</li>
+    <li>For ubuntu - sudo apt install python-numpy</li></ul><br>
+2) Don't forget to import the file using <b>import numpy</b> 
