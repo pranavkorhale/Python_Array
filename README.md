@@ -8,4 +8,5 @@
       <li>Arrays can be <i>5 to 30 times</i> faster than the list for various operations.</li>
       <li>It is faster because <i>Arrays</i> are densely packed in homogeneous locations (means contiguous memory locations one after the other) unlike list it has scattered memory lactions.</li> 
       <li>This behaviour in computing is called <b>locality of reference.</b></li>
+    </ul>
 <p>NumPy library is partially written in python but most things that require fast computation are written in c or c++.</p> 
