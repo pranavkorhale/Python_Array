@@ -22,6 +22,7 @@ import numpy as np
 """
 To check the data type of array
 
+
 """
 arr=np.array([1,2,3,4,5,6])
 print("Data type is-:",arr.dtype,arr)
