@@ -3,7 +3,8 @@ import numpy as np   #created alias name for numpy
 0-dimension array-:
 Every single element in array is of 0-d
 
-"""
+""" 
+#good
 a=np.array(42)
 print(a,"Dimension is:",a.ndim)
 
